@@ -29,14 +29,6 @@ if ($say==0) {
 }
 
 
-
-//1.Yöntem
-/*
-if (!isset($_SESSION['kullanici_mail'])) {
-
-
-}
-*/
 ?>
 
 <!DOCTYPE html>
@@ -84,7 +76,7 @@ if (!isset($_SESSION['kullanici_mail'])) {
           <!-- menu profile quick info -->
           <div class="profile clearfix">
             <div class="profile_pic">
-              <img src="../img/ı.jpg" alt="..." class="img-circle profile_img">
+              <img src="../img/orman.jpg" alt="..." class="img-circle profile_img">
             </div>
             <div class="profile_info">
               <span>Hoşgeldin</span>

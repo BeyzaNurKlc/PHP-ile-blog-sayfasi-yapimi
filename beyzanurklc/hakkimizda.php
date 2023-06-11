@@ -24,7 +24,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2">
-            <img src="assets/img/alacati2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>Herkese Merhaba</h3>
@@ -60,7 +60,6 @@ Beni daha yakından tanımak için instagram adresim üzerinden de takip edebili
 
         <div class="owl-carousel recent-photos-carousel">
 
-<!-- Buraya admin panelden bir alan yapıcam kadrajıma ekle diye ordan veri tabanına eklediğim fotoğrafları sırayla buraya çekicem-->
           <img src="assets/img/kadrajım/bolu.jpg" alt="kadrajımdan">
 
           <img src="assets/img/kadrajım/burdur.jpg" alt="kadrajımdan">
